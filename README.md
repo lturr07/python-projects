@@ -1,2 +1,3 @@
 # python-projects
-My Python Projects :D
+
+Please credit me with prefferably my account on github :D
